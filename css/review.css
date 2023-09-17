@@ -90,7 +90,7 @@ img {
 .p1
 {
     width: 610PX;
-    height: 450px;
+    height: 433px;
     display: flex;
     justify-content: right;
     align-items: flex-end;
@@ -107,6 +107,6 @@ img {
     border-top-right-radius: 10px; 
     border-bottom-right-radius:10px; 
     position: relative;
-    bottom: 450px;
+    bottom: 433px;
     
 }
